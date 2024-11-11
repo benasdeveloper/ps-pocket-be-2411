@@ -1,4 +1,4 @@
-# Node Server Study
+# PS Pocket - Backend
 
 This repository is a study focused on creating and setting up a server using Node.js with Fastify, TypeScript, Drizzle ORM, and other modern tools. The project aims to explore and understand server configuration, ORM (Object-Relational Mapping) usage, database management, and development best practices with TypeScript and data validation.
 
